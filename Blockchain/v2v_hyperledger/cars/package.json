@@ -1,0 +1,15 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "fabric-chaincode-node start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fabric-contract-api": "~2.5",
+    "fabric-shim": "~2.5"
+  }
+}

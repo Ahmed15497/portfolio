@@ -1,0 +1,9 @@
+{
+  "index": {
+    "fields": ["registerDate"] 
+  },
+  "ddoc": "register_date_doc",  
+  "name": "register_date_index",
+  "type": "json"
+}
+

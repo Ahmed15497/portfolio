@@ -1,0 +1,10 @@
+{
+  "index": {
+    "fields": ["state"]
+  },
+  "ddoc": "state_index_doc",
+  "name": "state_index",
+  "type": "json"
+}
+
+

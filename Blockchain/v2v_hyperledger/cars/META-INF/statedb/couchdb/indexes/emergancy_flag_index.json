@@ -1,0 +1,11 @@
+{
+    "index": {
+      "fields": ["emergancyFlag"]
+    },
+    "ddoc": "emergancy_flag_index_doc",
+    "name": "emergancy_flag_index",
+    "type": "json"
+  }
+  
+  
+  
